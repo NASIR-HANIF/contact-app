@@ -1,0 +1,39 @@
+<div class="accordion mb-3">
+                        <div class="accordion-item">
+                            <h5 class="accordion-header">
+                                <button class="accordion-button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse-1">nasir</button>
+                            </h5>
+                            <div class="accordion-collapse collapse " id="collapse-1">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-md-6">
+
+                                            <h5>nasir</h5>
+                                            <p>03170046777</p>
+                                        </div>
+
+                                        <div
+                                            class="col-md-6 d-flex justify-content-around align-items-center position-reletive">
+                                            <i class="fa-regular fa-message"></i>
+                                            <i class="fa-solid fa-phone"></i>
+                                            <i class="fa-solid fa-ellipsis-vertical"></i>
+                                            <div class="option-box">
+                                                <i class="fa-regular fa-pen-to-square"></i>
+                                                <i class="fa-regular fa-trash-can"></i>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    //  local storage me data push karnaey ka function
+// pehlay to body se wo element ko le ga jis me data
+// creat huva hey us se data nikaley ga or array_list
+// me push karey ga object form me or local storage me set
+// karey ga data sessionStorage key key so sath ley ga or
+// array_list ke sath mil key set ho ga localStorage me
